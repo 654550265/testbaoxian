@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box; }
+
+ul, li, ol {
+  list-style: none; }
+
+.toolbar-background.toolbar-background-md {
+  background-color: #488aff; }
+
+.toolbar-title.toolbar-title-md {
+  color: #fff;
+  text-align: center; }
+
+.toolbar-background.toolbar-background-ios {
+  background-color: #488aff;
+  border-bottom: 0; }
+
+.toolbar-title.toolbar-title-ios {
+  color: #fff;
+  font-weight: 400; }
+
+.tab-button-icon.icon.icon-md {
+  height: 30px;
+  min-width: 35px; }
+
+.ion-ios-account-outline {
+  background-image: url("../assets/icon/account.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-account {
+  background-image: url("../assets/icon/account-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-account[ng-reflect-is-active="false"] {
+  background-image: url("../assets/icon/account.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-account[ng-reflect-is-active="true"] {
+  background-image: url("../assets/icon/account-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-farm-ion-outline {
+  background-image: url("../assets/icon/farm-ion.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-farm-ion {
+  background-image: url("../assets/icon/farm-ion-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-farm-ion[ng-reflect-is-active="false"] {
+  background-image: url("../assets/icon/farm-ion.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-farm-ion[ng-reflect-is-active="true"] {
+  background-image: url("../assets/icon/farm-ion-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-message-outline {
+  background-image: url("../assets/icon/message.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-message {
+  background-image: url("../assets/icon/message-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-message[ng-reflect-is-active="false"] {
+  background-image: url("../assets/icon/message.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-message[ng-reflect-is-active="true"] {
+  background-image: url("../assets/icon/message-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-service-outline {
+  background-image: url("../assets/icon/service.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-ios-service {
+  background-image: url("../assets/icon/service-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-service[ng-reflect-is-active="false"] {
+  background-image: url("../assets/icon/service.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ion-md-service[ng-reflect-is-active="true"] {
+  background-image: url("../assets/icon/service-active.png");
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+/*# sourceMappingURL=app.css.map */
